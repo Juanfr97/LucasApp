@@ -9,7 +9,7 @@ In mathematics, the Lucas numbers or Lucas series are an integer sequence named 
 Formulas for the nth Lucas number are similar to those of the Fibonacci numbers. They are given by the following formula:
 
 ``` text
-L(n) = φ^n + (1-φ)^n
+L(n) = L(n-1) + L(n-2) para n ≥ 2
 ```
 
 where φ is the golden ratio, approximately 1.6180339887.
