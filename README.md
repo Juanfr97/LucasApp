@@ -12,9 +12,6 @@ Formulas for the nth Lucas number are similar to those of the Fibonacci numbers.
 L(n) = L(n-1) + L(n-2) para n ≥ 2
 ```
 
-where φ is the golden ratio, approximately 1.6180339887.
-
-
 ## How to use
 
 - Clone the repository
